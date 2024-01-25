@@ -1,6 +1,13 @@
-*{
+*{  
+    width: 81%;
+    max-width: 1170px;
+    margin: 0 auto;
     font-family: 'Manrope', sans-serif;
     text-decoration: none;
+}
+.navigationbar{
+    display: flex;
+    padding-top: 54px;
 }
 .logo{
     color: #131318;
